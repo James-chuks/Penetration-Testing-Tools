@@ -1,0 +1,75 @@
+[submodule "web/tomcatWarDeployer"]
+	path = web/tomcatWarDeployer
+	url = https://github.com/mgeeky/tomcatWarDeployer.git
+[submodule "web/burpContextAwareFuzzer"]
+	path = web/burpContextAwareFuzzer
+	url = https://github.com/mgeeky/burpContextAwareFuzzer.git
+[submodule "web/dirbuster"]
+	path = web/dirbuster
+	url = https://github.com/mgeeky/dirbuster.git
+[submodule "phishing/RobustPentestMacro"]
+	path = phishing/RobustPentestMacro
+	url = https://github.com/mgeeky/RobustPentestMacro
+[submodule "phishing/VisualBasicObfuscator"]
+	path = phishing/VisualBasicObfuscator
+	url = https://github.com/mgeeky/VisualBasicObfuscator.git
+[submodule "phishing/PhishingPost"]
+	path = phishing/PhishingPost
+	url = https://github.com/mgeeky/PhishingPost.git
+[submodule "web/proxy2"]
+	path = web/proxy2
+	url = https://github.com/mgeeky/proxy2
+[submodule "red-teaming/Stracciatella"]
+	path = red-teaming/Stracciatella
+	url = https://github.com/mgeeky/Stracciatella.git
+[submodule "red-teaming/cobalt-arsenal"]
+	path = red-teaming/cobalt-arsenal
+	url = https://github.com/mgeeky/cobalt-arsenal.git
+[submodule "windows/PE-library"]
+	path = windows/PE-library
+	url = https://github.com/mgeeky/PE-library
+[submodule "red-teaming/SharpWMI"]
+	path = red-teaming/SharpWMI
+	url = https://github.com/mgeeky/SharpWMI
+[submodule "windows/UnhookMe"]
+	path = windows/UnhookMe
+	url = https://github.com/mgeeky/UnhookMe
+[submodule "red-teaming/CobaltSplunk"]
+	path = red-teaming/CobaltSplunk
+	url = https://github.com/mgeeky/CobaltSplunk
+[submodule "red-teaming/SharpWebServer"]
+	path = red-teaming/SharpWebServer
+	url = https://github.com/mgeeky/SharpWebServer
+[submodule "red-teaming/RedWarden"]
+	path = red-teaming/RedWarden
+	url = https://github.com/mgeeky/RedWarden
+[submodule "red-teaming/ElusiveMice"]
+	path = red-teaming/ElusiveMice
+	url = https://github.com/mgeeky/ElusiveMice
+[submodule "windows/ThreadStackSpoofer"]
+	path = windows/ThreadStackSpoofer
+	url = https://github.com/mgeeky/ThreadStackSpoofer
+[submodule "windows/ShellcodeFluctuation"]
+	path = windows/ShellcodeFluctuation
+	url = https://github.com/mgeeky/ShellcodeFluctuation
+[submodule "phishing/decode-spam-headers"]
+	path = phishing/decode-spam-headers
+	url = https://github.com/mgeeky/decode-spam-headers
+[submodule "clouds/azure/AzureRT"]
+	path = clouds/azure/AzureRT
+	url = https://github.com/mgeeky/AzureRT
+[submodule "file-formats/PackMyPayload"]
+	path = file-formats/PackMyPayload
+	url = https://github.com/mgeeky/PackMyPayload
+[submodule "red-teaming/OfficePurge"]
+	path = red-teaming/OfficePurge
+	url = https://github.com/mgeeky/OfficePurge
+[submodule "red-teaming/EvilClippy"]
+	path = red-teaming/EvilClippy
+	url = https://github.com/mgeeky/EvilClippy
+[submodule "phishing/CustomXMLPart"]
+	path = phishing/CustomXMLPart
+	url = https://github.com/mgeeky/CustomXMLPart
+[submodule "file-formats/msi-shenanigans"]
+	path = file-formats/msi-shenanigans
+	url = https://github.com/mgeeky/msi-shenanigans
